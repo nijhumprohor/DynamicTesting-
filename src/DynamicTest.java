@@ -6,7 +6,7 @@
 
 /**
  *
- * @author ruhul
+ * @author ruhul...GitHub Testin
  */
 public class DynamicTest {
    double income;
